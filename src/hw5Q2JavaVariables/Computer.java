@@ -10,6 +10,7 @@ public class Computer {
 	public boolean madeInUSA;
 
 	public Computer() {
+		//
 		System.out.println("This is from default Constructor of Computer class.");
 	}
 
