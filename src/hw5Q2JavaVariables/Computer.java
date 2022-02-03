@@ -20,7 +20,7 @@ public class Computer {
 		this.operatingSystem = operatingSystem;
 		this.price = price;
 		this.grade = grade;
-		//new changes
+		//new 
 		this.madeInUSA = madeInUSA; 
 		System.out.println("My Brand: " + brand + ", Model: " + model + ", Operating system: " + operatingSystem
 				+ ", Price: " + price + "$, Grade: " + grade + " and Made in USA? Ans: " + madeInUSA + ".");
